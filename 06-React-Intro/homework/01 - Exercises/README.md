@@ -39,7 +39,7 @@ El primer test pasará sin que hagas nada, simplemente está para que te ayude a
 
 <br />
 
-Ingresando a <http://localhost:3000> desde el navegador, podremos ir viendo en tiempo real el resultado de nuestro trabajo.
+Ingresando a <http://localhost::3000> desde el navegador, podremos ir viendo en tiempo real el resultado de nuestro trabajo.
 
 <br />
 
