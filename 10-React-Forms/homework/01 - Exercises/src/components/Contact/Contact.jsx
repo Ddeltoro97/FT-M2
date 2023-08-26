@@ -69,6 +69,19 @@ export default function Contact () {
 
     if(errores.length === 0){
       window.alert("Los datos fueron envíados")
+      
+      setInputs({
+        name: '',
+        email: '',
+        message: ''
+      })
+
+      setErrors({
+        name: '',
+        email: '',
+        message:''
+      })
+
 
     }
     else{
